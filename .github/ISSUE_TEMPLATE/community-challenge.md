@@ -10,11 +10,11 @@ assignees: ''
 - Tem Alguma sugestão para quem for fazer o desafio? 
 
 
-descreva
+requer muita atenção da sua parte para não se atrapalhar e perder tempo.
 
 - Descreva como você realizou o seu
 
-descreva 
+Eu  segui os passo do video para fazer as atividades propostas pelo o desafio.
 
 
 Links Úteis
